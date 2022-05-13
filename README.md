@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! i'm normalcoder10
+[![trophy](https://github-profile-trophy.vercel.app/?username=normalcoder10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **normalcoder10/normalcoder10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
