@@ -1,10 +1,10 @@
 ### Hi i'm normalcoder10
 #
-#### 💻tech stack💻
-### this is my github trophy
+### 💻tech stack💻
+this is my github trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=normalcoder10)](https://github.com/ryo-ma/github-profile-trophy)
 
-### and this is my stats and most used languages
+and this is my stats and most used languages
 ![normalcoder10's github stats](https://github-readme-stats.vercel.app/api?username=normalcoder10&show_icons=true)
 
 [![normalcoder10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=normalcoder10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/normalcoder10)
