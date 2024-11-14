@@ -1,4 +1,4 @@
-### Hi i'm normalcoder10
+## Hi I'm normalcoder10
 #
 ### 💻tech stack💻
 ### this is my github trophy
